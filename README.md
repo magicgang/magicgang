@@ -11,4 +11,4 @@
 <br />
 <br />
 
-[twitter] : https://twitter.com/Norimakitamagoo
+[twitter]: https://twitter.com/Norimakitamagoo
