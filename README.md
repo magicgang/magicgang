@@ -6,7 +6,7 @@
 ### Hello I'm Allon 
 
 # Making somethin' 
-- 🐦here's My[twitter]!
+- 🐦here's My [twitter]!
 
 <br />
 <br />
