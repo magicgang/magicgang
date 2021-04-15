@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](spotify-yasuuuuuu.vercel.app)](https://open.spotify.com/user/Yasu)
+[![Spotify]()](https://open.spotify.com/user/Yasu)
 
 
 [twitter]: https://twitter.com/Norimakitamagoo
