@@ -14,7 +14,7 @@
 - Improve Python
 
 ## Status
-<img align='left' alt=My github status src="https://github-readme-stats.vercel.app/api?username=Yasuuuuuu?show_icons=true&theme=radical" />
+<img align='left' alt="My github status" src="https://github-readme-stats.vercel.app/api?username=Yasuuuuuu?show_icons=true&theme=radical" />
 
 
 
