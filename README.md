@@ -14,7 +14,7 @@
 - Improve Python
 
 ## Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasuuuuuu?show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasuuuuuu?show_icons=true&theme=radical)]
 
 
 
