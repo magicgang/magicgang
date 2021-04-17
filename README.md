@@ -7,6 +7,12 @@
 
 # Making somethin' 
 - 🐦here's My [twitter]!
+- https://img.shields.io/twitter/follow/norimakitamagoo?style=social
+
+### 2021 goals
+-Learn java
+-Learn c++
+-Improve Python
 
 ### Spotify Playing 🎧
 
