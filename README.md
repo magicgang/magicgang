@@ -7,7 +7,6 @@
 
 # Making somethin' 
 - 🐦here's My [twitter]!
-https://img.shields.io/twitter/follow/norimakitamagoo?style=social
 
 ### 2021 goals
 -Learn java
@@ -16,7 +15,6 @@ https://img.shields.io/twitter/follow/norimakitamagoo?style=social
 
 ### Spotify Playing 🎧
 
-[![Spotify]()](https://open.spotify.com/user/Yasu)
 
 
 [twitter]: https://twitter.com/Norimakitamagoo
