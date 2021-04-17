@@ -8,7 +8,7 @@
 
 # Making somethin' 
 - 🐦here's My [twitter]!
-- Now im working on Developing Discordbot / 今はディスコードのボット作ったりしてます
+- ✏️Now im working on Developing Discordbot / 今はディスコードのボット作ったりしてます
 
 ## 2021 goals
 - Learn java / Java勉強する
