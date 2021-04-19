@@ -9,6 +9,8 @@
 # Making somethin' 
 - 🐦here's My [twitter]!
 - ✏️Now im working on Developing Discordbot / 今はディスコードのボット作ったりしてます
+[![Github](https://img.shields.io/github/followers/magicgang?style=plastic)
+[![Twitter](https://img.shields.io/twitter/follow/norimakitamagoo?style=plastic)
 
 ## 2021 goals
 - Learn java / Java勉強する
