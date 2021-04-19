@@ -10,7 +10,7 @@
 - 🐦here's My [twitter]!
 - ✏️Now im working on Developing Discordbot / 今はディスコードのボット作ったりしてます </br>
 
-[![Github](https://img.shields.io/github/followers/magicgang?style=plastic)
+![Github](https://img.shields.io/github/followers/magicgang?style=plastic)
 ![Twitter](https://img.shields.io/twitter/follow/norimakitamagoo?style=plastic)
 
 ## 2021 goals
