@@ -1,4 +1,4 @@
-# Hi there 👋　
+# Yooo there 👋　
 
 <!--
 **Yasuuuuuu/Yasuuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 ### Hello I'm Allon ようこそ！
 <h5>AKA magic.....</h5>
 
-# Making somethin' 
+# Making somethngg
 - 🐦here's My [twitter]!
 - ✏️Now im working on Developing Discordbot / 今はディスコードのボット作ったりしてます </br>
 
