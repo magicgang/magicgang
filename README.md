@@ -19,8 +19,8 @@
 - Make twitter bot
 
 ## what ive finished
--Line bot
--use gmailapi
+- Line bot
+- use gmailapi
 
 ## Status
 <img align='left' alt="My github status" src="https://github-readme-stats.vercel.app/api?username=magicgang&show_icons=true&theme=tokyonight" />
